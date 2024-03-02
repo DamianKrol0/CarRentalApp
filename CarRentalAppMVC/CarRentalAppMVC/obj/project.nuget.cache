@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T2kK/po6OWyc7wQ+PlWuwIJtXB4+0CETNDK3UADctIwXtn/vjAyajRQOxCJD6TLdHK4jfBw6uacpnFxMQT/Nxg==",
+  "dgSpecHash": "ihhOkrHm1DNaDUrq8We1LMdiWhUKoubabZMDrVk/ZxLxXHWyHum3lSxFsaRioy4hc5LKzSPj0fkOttRJh2At6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalAppMVC\\CarRentalAppMVC.csproj",
+  "projectFilePath": "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalAppMVC\\CarRentalAppMVC.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.24.0.46/NugetFeed/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarRentalAppMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc26ae47b2c390dab3b54d0704dca206439b8055")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarRentalAppMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarRentalAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
