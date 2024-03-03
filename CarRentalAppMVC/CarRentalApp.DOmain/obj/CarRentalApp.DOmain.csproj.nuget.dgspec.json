@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj": {}
+    "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj": {
+    "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj",
+        "projectUniqueName": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj",
         "projectName": "CarRentalApp.DOmain",
-        "projectPath": "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj",
+        "projectPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj",
         "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\obj\\",
         "projectStyle": "PackageReference",
