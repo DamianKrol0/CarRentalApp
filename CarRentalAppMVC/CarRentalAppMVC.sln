@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Apllication", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Infrastructure", "CarRentalApp.Infrastructure\CarRentalApp.Infrastructure.csproj", "{6A747279-DB1C-499C-BD71-0CCEEBFF2C40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.DOmain", "CarRentalApp.DOmain\CarRentalApp.DOmain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Domain", "CarRentalApp.DOmain\CarRentalApp.Domain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

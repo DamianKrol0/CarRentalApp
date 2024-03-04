@@ -2,49 +2,44 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "CarRentalApp.DOmain/1.0.0": {
+      "CarRentalApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/CarRentalApp.DOmain.dll": {}
+          "bin/placeholder/CarRentalApp.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CarRentalApp.DOmain.dll": {}
+          "bin/placeholder/CarRentalApp.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CarRentalApp.DOmain/1.0.0": {
+    "CarRentalApp.Domain/1.0.0": {
       "type": "project",
-      "path": "../CarRentalApp.DOmain/CarRentalApp.DOmain.csproj",
-      "msbuildProject": "../CarRentalApp.DOmain/CarRentalApp.DOmain.csproj"
+      "path": "../CarRentalApp.DOmain/CarRentalApp.Domain.csproj",
+      "msbuildProject": "../CarRentalApp.DOmain/CarRentalApp.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CarRentalApp.DOmain >= 1.0.0"
+      "CarRentalApp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\damia\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\krol.d\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\CarRentalApp.Apllication.csproj",
+      "projectUniqueName": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\CarRentalApp.Apllication.csproj",
       "projectName": "CarRentalApp.Apllication",
-      "projectPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\CarRentalApp.Apllication.csproj",
-      "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\obj\\",
+      "projectPath": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\CarRentalApp.Apllication.csproj",
+      "packagesPath": "C:\\Users\\krol.d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.Apllication\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\krol.d\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,15 +47,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "http://172.24.0.46/NugetFeed/nuget": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj": {
-              "projectPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj"
+            "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.Domain.csproj"
             }
           }
         }
@@ -69,11 +63,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -95,8 +84,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.24.0.46/NugetFeed/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
