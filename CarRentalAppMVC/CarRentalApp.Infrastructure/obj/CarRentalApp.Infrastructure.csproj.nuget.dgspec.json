@@ -11,7 +11,7 @@
         "projectName": "CarRentalApp.DOmain",
         "projectPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\CarRentalApp.DOmain.csproj",
         "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damia\\Source\\Repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\obj\\",
+        "outputPath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalApp.DOmain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
