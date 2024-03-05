@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Ci/LFlRo/5Vs+5CBQ5QDldryy07MQWbqyYPOpsUPJ3yL+gppOF3m0GMFnxQ/QaFZvKvwEfP2jBpoiy7oPPxxDQ==",
+  "dgSpecHash": "QNjJXM5mINJvjajjWAF8lqF/sXCCmMB+I5WNwZYOkkWdoP7c3YQ+uvL9VHfKR3bBP9KzLaSN/If5xXSOt2Tl4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damia\\source\\repos\\DamianKrol0\\CarRentalApp\\CarRentalAppMVC\\CarRentalAppMVC\\CarRentalAppMVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\krol.d\\source\\repos\\CarRentalApp\\CarRentalAppMVC\\CarRentalAppMVC\\CarRentalAppMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\krol.d\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
