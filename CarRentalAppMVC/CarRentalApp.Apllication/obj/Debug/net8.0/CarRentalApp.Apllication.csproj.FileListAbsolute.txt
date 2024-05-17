@@ -1,0 +1,16 @@
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\bin\Debug\net8.0\CarRentalApp.Apllication.deps.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\bin\Debug\net8.0\CarRentalApp.Apllication.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\bin\Debug\net8.0\CarRentalApp.Apllication.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.csproj.AssemblyReference.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.AssemblyInfoInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.AssemblyInfo.cs
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.csproj.CoreCompileInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.sourcelink.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRenta.DD6604F9.Up2Date
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\refint\CarRentalApp.Apllication.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\CarRentalApp.Apllication.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Apllication\obj\Debug\net8.0\ref\CarRentalApp.Apllication.dll

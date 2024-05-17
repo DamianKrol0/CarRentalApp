@@ -1,0 +1,16 @@
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.deps.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.AssemblyInfo.cs
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.sourcelink.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRenta.1E0FB08B.Up2Date
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\refint\CarRentalApp.Infrastructure.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.Infrastructure\obj\Debug\net8.0\ref\CarRentalApp.Infrastructure.dll

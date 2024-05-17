@@ -9,12 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.Apllication", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.Infrastructure", "CarRentalApp.Infrastructure\CarRentalApp.Infrastructure.csproj", "{6A747279-DB1C-499C-BD71-0CCEEBFF2C40}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.DOmain", "CarRentalApp.DOmain\CarRentalApp.DOmain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.Domain", "CarRentalApp.DOmain\CarRentalApp.Domain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D600DEF2-88E9-4A13-BD7D-7330FFFAB513}"
-	ProjectSection(SolutionItems) = preProject
-		README.txt = README.txt
-	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{17EA677E-AFAF-4227-8256-2C379675AC20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFDF2994-293B-4CB5-8067-2CDD4F2422AF} = {17EA677E-AFAF-4227-8256-2C379675AC20}
+		{DF89E0DC-661E-40AA-B6C5-DD1C14F6DA9C} = {17EA677E-AFAF-4227-8256-2C379675AC20}
+		{6A747279-DB1C-499C-BD71-0CCEEBFF2C40} = {17EA677E-AFAF-4227-8256-2C379675AC20}
+		{6C9F3742-F5E1-4C4B-BCAB-36D99243191E} = {17EA677E-AFAF-4227-8256-2C379675AC20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2E8B45E-A7B1-40BC-8620-9FDEE9E79E53}

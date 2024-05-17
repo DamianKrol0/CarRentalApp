@@ -1,0 +1,12 @@
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\bin\Debug\net8.0\CarRentalApp.Domain.deps.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.AssemblyInfoInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.AssemblyInfo.cs
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.sourcelink.json
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\refint\CarRentalApp.Domain.dll
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\krol.d\source\repos\CarRentalApp\CarRentalAppMVC\CarRentalApp.DOmain\obj\Debug\net8.0\ref\CarRentalApp.Domain.dll
