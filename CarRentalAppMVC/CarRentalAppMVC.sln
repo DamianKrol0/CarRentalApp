@@ -5,11 +5,16 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalAppMVC", "CarRentalAppMVC\CarRentalAppMVC.csproj", "{CFDF2994-293B-4CB5-8067-2CDD4F2422AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Apllication", "CarRentalApp.Apllication\CarRentalApp.Apllication.csproj", "{DF89E0DC-661E-40AA-B6C5-DD1C14F6DA9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.Apllication", "CarRentalApp.Apllication\CarRentalApp.Apllication.csproj", "{DF89E0DC-661E-40AA-B6C5-DD1C14F6DA9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Infrastructure", "CarRentalApp.Infrastructure\CarRentalApp.Infrastructure.csproj", "{6A747279-DB1C-499C-BD71-0CCEEBFF2C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.Infrastructure", "CarRentalApp.Infrastructure\CarRentalApp.Infrastructure.csproj", "{6A747279-DB1C-499C-BD71-0CCEEBFF2C40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Domain", "CarRentalApp.DOmain\CarRentalApp.Domain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalApp.DOmain", "CarRentalApp.DOmain\CarRentalApp.DOmain.csproj", "{6C9F3742-F5E1-4C4B-BCAB-36D99243191E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D600DEF2-88E9-4A13-BD7D-7330FFFAB513}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
